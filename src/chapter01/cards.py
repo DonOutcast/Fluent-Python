@@ -24,4 +24,4 @@ class FrenchDeck:
 
 if __name__ == "__main__":
     deck = FrenchDeck()
-    len(deck)
+    print(len(deck))
